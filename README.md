@@ -284,7 +284,7 @@ Follow this [procedure](https://github.com/choetech160/arch-usbguard)
 
 #### 14. Set up Wazuh
 
-Follow this [procedure](https://github.com/choetech160/arch-linux/wazuh/README.md)
+Follow this [procedure](https://github.com/choetech160/arch-linux/blob/main/wazuh/README.md)
 
 #### 14. AIDE (Advance Intrusion Detection Environment)
 
@@ -348,11 +348,11 @@ sudo ufw enable
 
 #### 16. Enable kernel security features (KASLR, SMAP, SMEP)
 
-To enable the kernel security features and harden the kernel, follow [this procedure](https://github.com/choetech160/arch-linux/Kernel-Security-Features/README.md)
+To enable the kernel security features and harden the kernel, follow [this procedure](https://github.com/choetech160/arch-linux/tree/main/Kernel-Security-Features)
 
-#### 17. Secure the boot loader
+#### 17. Secure the bootloader
 
-To encrypt the boot loader, follow [this procedure](https://github.com/choetech160/arch-linux/bootloader/README.md)
+To encrypt the boot loader, follow [this procedure](https://github.com/choetech160/arch-linux/tree/main/bootloader)
 
 ## Connect to the internets once log in without gui
 
